@@ -2,7 +2,7 @@
 
 A simple yet powerful application that generates images from text prompts using the Stable Diffusion model. This entire project is self-contained within a Google Colab notebook and features a modern, interactive user interface built with Gradio.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]("https://colab.research.google.com/drive/1aHhruYErvy852gl8rH51F1jnEJwU3UxA")
 
 ---
 
@@ -18,12 +18,8 @@ A simple yet powerful application that generates images from text prompts using 
 
 ## 📸 Screenshot
 
-Here is a preview of the interactive user interface in action:
+![Uploading image.png…]()
 
-![AI Text-to-Image Generator UI](https://i.imgur.com/your-image-url.jpg)
-_**Note:** To make this image work, upload your screenshot to your GitHub repository or an image hosting site like Imgur, and replace the URL above._
-
----
 
 ## 🛠️ Technologies Used
 
