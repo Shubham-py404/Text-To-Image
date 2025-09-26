@@ -18,7 +18,7 @@ A simple yet powerful application that generates images from text prompts using 
 
 ## 📸 Screenshot
 
-![alt text](https://github.com/Shubham-py404/Text-To-Image/edit/main/image.jpg?raw=true)
+![alt text](https://github.com/Shubham-py404/Text-To-Image/blob/main/image.png?raw=true)
 
 
 
